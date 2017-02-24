@@ -1,0 +1,33 @@
+body {
+  text-align: center;
+  background-color: #FFE;
+  color:black;
+  border: 5px solid brown;
+  border-radius: 20px;
+}
+
+ul {
+  width: 25%;
+  text-align: left;
+  margin-left:auto;
+  margin-right:auto;
+}
+p {
+  width: 25%;
+  text-align: center;
+  margin-left:auto;
+  margin-right:auto;
+}
+a {
+  color: #900;
+}
+hr {
+  width: 25%;
+}
+img {
+  border: 5px solid brown;
+  border-radius: 20px;
+}
+h1, h2 {
+  color: brown;
+}
